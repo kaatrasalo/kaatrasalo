@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @DevMeerkat
+- 👀 I’m trying to learn programming ;-;
