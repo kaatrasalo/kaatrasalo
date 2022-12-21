@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @DevMeerkat
+- 👋 Hi, I’m Taro
 - 👀 I’m trying to learn programming ;-;
